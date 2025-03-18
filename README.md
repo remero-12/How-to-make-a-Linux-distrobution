@@ -4,3 +4,4 @@
 3. add it distribution you are basing it off of
 4. change and add the items you are going add to the OS
 5. fix any bugs
+6. export to an iso file
